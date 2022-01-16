@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Developers 👋
 
 <!--
 **rndtn/rndtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://velog.io/@rndtn" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
+![Soo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndtn&show_icons=true&theme=radical)
