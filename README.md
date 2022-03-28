@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="center">
 <a href="https://velog.io/@rndtn" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=square&logo=Blogger&logoColor=white"/>
 </a>
 </br>
@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=MariaDBFoundation&logoColor=white"/>
 
 ![Soo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndtn&show_icons=true&theme=radical)
+</p>
 
