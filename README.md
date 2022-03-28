@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Soo'sGithub&fontSize=70)
-
-### Hi Developers 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=7B68EE&height=150&section=header&text=Soo's%20Github&fontSize=70&animation=twinkling&fontColor=FFFFFF&fontAlign=70&fontAlignY=60)
 
 <!--
 **rndtn/rndtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
