@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">My Velog &nbsp👉&nbsp
-<a href="https://velog.io/@rndtn" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=square&logo=Blogger&logoColor=white" align="center" height="30px"/>
+<a href="https://velog.io/@rndtn" target="_blank"><img src="https://img.shields.io/badge/Blogger-483D8B?style=square&logo=Blogger&logoColor=white" align="center" height="30px"/>
 </a>
 </br></br>
 🖋&nbsp&nbspTech Stack&nbsp&nbsp🖋
@@ -34,6 +34,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=MariaDBFoundation&logoColor=white" align="center"/>
 </p>
 
-![Soo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndtn&show_icons=true&theme=radical)
-
-
+![Soo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rndtn&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
